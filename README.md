@@ -1,2 +1,2 @@
 # delta-demo
-this is a demo of class web development
+this is a demo of class web development.
